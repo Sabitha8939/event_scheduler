@@ -3,18 +3,18 @@
 This repository contains screenshots and a demo video of the Flask Event Scheduling & Resource Allocation System.
 
 ### Event Management
-![Events](SS1.PNG)
+![Events](SS1.png)
 
 ### Resource 
-![Allocation](SS2.PNG)
+![Allocation](SS2.png)
 
 ### Resource Allocation
-![Conflict](SS3.PNG)
+![Conflict](SS3.png)
 
 ### Resource Utilization Report
-![Report](SS4.PNG)
+![Report](SS4.png)
 
 
 ### Demo Video
-[Watch Demo Video](viedo.MP4) 
+[Watch Demo Video](viedo.mp4) 
  Will this work
