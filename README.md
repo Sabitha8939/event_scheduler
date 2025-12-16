@@ -16,5 +16,5 @@ This repository contains screenshots and a demo video of the Flask Event Schedul
 
 
 ### Demo Video
-[Watch Demo Video](viedo.mp4) 
+[Watch Demo Video](viedo.MP4) 
  Will this work
